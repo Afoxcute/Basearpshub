@@ -1,12 +1,12 @@
 OTHER REPOS
 
-https://github.com/hoepeyemi/basearpsyield
+https://github.com/Afoxcute/basearpsyield
 
 
-https://github.com/hoepeyemi/basearpsid
+https://github.com/Afoxcute/basearps-id
 
 
-https://github.com/hoepeyemi/basedagri
+https://github.com/Afoxcute/basedagri
 
 
-https://github.com/hoepeyemi/basearpsveri
+https://github.com/Afoxcute/basearpsveri
